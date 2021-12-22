@@ -1,7 +1,7 @@
 /* 
 SparkFun Lab 1 Homework 
 A.Sharma
-sharma.aayus@northeastern.edu
+paayushisharad@gmail.com
 Traffic Light
 Parts taken from Arduino IDE Sample - Blink and RGB. Additional help from FYELIC (Matthew 2nd year MechE student)
 A car traffic light (red, yellow and green LEDs) and pedestrian light (RGB LED) 
